@@ -1,0 +1,11 @@
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
