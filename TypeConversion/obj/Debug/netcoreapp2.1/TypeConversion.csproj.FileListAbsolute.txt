@@ -1,0 +1,11 @@
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/bin/Debug/netcoreapp2.1/TypeConversion.deps.json
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/bin/Debug/netcoreapp2.1/TypeConversion.runtimeconfig.json
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/bin/Debug/netcoreapp2.1/TypeConversion.runtimeconfig.dev.json
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/bin/Debug/netcoreapp2.1/TypeConversion.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/bin/Debug/netcoreapp2.1/TypeConversion.pdb
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/obj/Debug/netcoreapp2.1/TypeConversion.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/obj/Debug/netcoreapp2.1/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/obj/Debug/netcoreapp2.1/TypeConversion.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/obj/Debug/netcoreapp2.1/TypeConversion.AssemblyInfo.cs
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/obj/Debug/netcoreapp2.1/TypeConversion.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/TypeConversion/obj/Debug/netcoreapp2.1/TypeConversion.pdb
