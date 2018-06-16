@@ -1,6 +1,6 @@
 using System;
 
-namespace katelynncampbell.Documents.UdemyCSharp.Four.CSharpFundamentals
+namespace CSharpFundamentals
 {
     public class Person
     {
@@ -10,6 +10,6 @@ namespace katelynncampbell.Documents.UdemyCSharp.Four.CSharpFundamentals
         public void Introduce()
         {
             Console.WriteLine("My name is " + FirstName + " " + LastName);
-        }    
+        }        
     }
 }

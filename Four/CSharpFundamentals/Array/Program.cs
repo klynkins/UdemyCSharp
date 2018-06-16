@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace katelynncampbell.Documents.UdemyCSharp.Four.CSharpFundamentals.Array
+namespace Array
 {
     class Program
     {
@@ -21,7 +21,6 @@ namespace katelynncampbell.Documents.UdemyCSharp.Four.CSharpFundamentals.Array
             Console.WriteLine(flags[2]);
 
             var names = new string[3] { "Jack", "John", "Mary"};
-            
         }
     }
 }

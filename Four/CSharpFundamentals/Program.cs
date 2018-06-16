@@ -1,7 +1,7 @@
-using System;
-using katelynncampbell.Documents.UdemyCSharp.Four.CSharpFundamentals.Math;
+﻿using System;
+using CSharpFundamentals.Math;
 
-namespace katelynncampbell.Documents.UdemyCSharp.Four.CSharpFundamentals
+namespace CSharpFundamentals
 {
     class Program
     {
