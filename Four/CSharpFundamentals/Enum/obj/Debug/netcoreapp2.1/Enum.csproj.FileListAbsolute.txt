@@ -1,0 +1,4 @@
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Enum/obj/Debug/netcoreapp2.1/Enum.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Enum/obj/Debug/netcoreapp2.1/Enum.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Enum/obj/Debug/netcoreapp2.1/Enum.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Enum/obj/Debug/netcoreapp2.1/Enum.AssemblyInfo.cs
