@@ -1,0 +1,11 @@
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/bin/Debug/netcoreapp2.1/Iterations.deps.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/bin/Debug/netcoreapp2.1/Iterations.runtimeconfig.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/bin/Debug/netcoreapp2.1/Iterations.runtimeconfig.dev.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/bin/Debug/netcoreapp2.1/Iterations.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/bin/Debug/netcoreapp2.1/Iterations.pdb
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/obj/Debug/netcoreapp2.1/Iterations.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/obj/Debug/netcoreapp2.1/Iterations.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/obj/Debug/netcoreapp2.1/Iterations.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/obj/Debug/netcoreapp2.1/Iterations.AssemblyInfo.cs
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/obj/Debug/netcoreapp2.1/Iterations.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Five/Iterations/obj/Debug/netcoreapp2.1/Iterations.pdb

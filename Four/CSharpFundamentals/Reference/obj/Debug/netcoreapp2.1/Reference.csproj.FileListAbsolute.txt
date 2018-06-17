@@ -1,0 +1,11 @@
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/obj/Debug/netcoreapp2.1/Reference.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/obj/Debug/netcoreapp2.1/Reference.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/obj/Debug/netcoreapp2.1/Reference.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/obj/Debug/netcoreapp2.1/Reference.AssemblyInfo.cs
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/bin/Debug/netcoreapp2.1/Reference.deps.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/bin/Debug/netcoreapp2.1/Reference.runtimeconfig.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/bin/Debug/netcoreapp2.1/Reference.runtimeconfig.dev.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/bin/Debug/netcoreapp2.1/Reference.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/bin/Debug/netcoreapp2.1/Reference.pdb
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/obj/Debug/netcoreapp2.1/Reference.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Four/CSharpFundamentals/Reference/obj/Debug/netcoreapp2.1/Reference.pdb
