@@ -1,0 +1,11 @@
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.AssemblyInfo.cs
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.deps.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.runtimeconfig.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.runtimeconfig.dev.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.pdb
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Seven/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.pdb
