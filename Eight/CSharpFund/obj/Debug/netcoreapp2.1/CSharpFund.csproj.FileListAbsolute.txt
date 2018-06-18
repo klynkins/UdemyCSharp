@@ -1,0 +1,11 @@
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/obj/Debug/netcoreapp2.1/CSharpFund.csprojAssemblyReference.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/obj/Debug/netcoreapp2.1/CSharpFund.csproj.CoreCompileInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/obj/Debug/netcoreapp2.1/CSharpFund.AssemblyInfoInputs.cache
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/obj/Debug/netcoreapp2.1/CSharpFund.AssemblyInfo.cs
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/bin/Debug/netcoreapp2.1/CSharpFund.deps.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/bin/Debug/netcoreapp2.1/CSharpFund.runtimeconfig.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/bin/Debug/netcoreapp2.1/CSharpFund.runtimeconfig.dev.json
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/bin/Debug/netcoreapp2.1/CSharpFund.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/bin/Debug/netcoreapp2.1/CSharpFund.pdb
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/obj/Debug/netcoreapp2.1/CSharpFund.dll
+/Users/katelynncampbell/Documents/UdemyCSharp/Eight/CSharpFund/obj/Debug/netcoreapp2.1/CSharpFund.pdb
