@@ -30,7 +30,7 @@ namespace CSharpFundamentals
             Console.WriteLine(age);
 
             float price = 29.95f;
-            Console.WriteLine(price.ToString("C"));   
+            Console.WriteLine(price.ToString("C"));   //
         }
     }
 }
